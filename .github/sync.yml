@@ -1,5 +1,5 @@
 evanorti/sync2:
   - README.md
   - jej.md
-  - source: wiki/hello.md
+  - source: wiki/hello
     dest: hello.md
